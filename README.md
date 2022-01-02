@@ -1,7 +1,7 @@
 ### Hi there, I'm Raj Julha 👋
 
+ [My Github Page Work In Progress](https://raj-julha.github.io/)
 <!--
-https://raj-julha.github.io/
 **raj-julha/raj-julha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
